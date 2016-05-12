@@ -1,0 +1,8 @@
+{
+    "name": "ashehui/yii2-temam",
+    "description": "yii2 template",
+    "require": {
+        "php": "^5.4 || ^7.0",
+        "yiisoft/yii2-app-advanced": "*"
+    }
+}
