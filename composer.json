@@ -3,5 +3,11 @@
     "description": "yii2 template",
     "require": {
         "php": "^5.4 || ^7.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ashehui\\ui\\": ""
+        }
     }
 }
